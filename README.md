@@ -21,7 +21,7 @@ Explore YouTube trends in Germany, unraveling key aspects such as video populari
 - **Presentation:**
   - `Part_1/presentation.pdf`: [Presentation Slides](https://drive.google.com/file/d/14jNNZ7eTEmn9--U0OHP6sQSgDGKrsXZX/view?usp=sharing) - Summarized insights and key findings.
 
-### Part 2: [To Be Completed by end of December 18, 2023 - really sorry! ]
+### FOLDER Part 2: [To Be Completed by end of December 18, 2023 - really sorry! ]
 
 This section will include further analysis and additional files related to the second part of the project.
 
