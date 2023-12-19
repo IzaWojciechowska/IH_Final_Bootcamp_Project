@@ -4,7 +4,7 @@
 
 This repository presents my final project for IronHack, focusing on a comprehensive analysis of YouTube trends in Germany. Divided into two parts, the project provides insights into viewer behavior, sentiment in comments, and includes a predictive model for video views.
 
-### FOLDER Part 1: YouTube German Trends Analysis
+### Part 1: YouTube German Trends Analysis
 
 Explore YouTube trends in Germany, unraveling key aspects such as video popularity, viewer engagement, and sentiment analysis. The analysis aims to uncover patterns and trends within the dynamics of YouTube content in the German market.
 
@@ -16,18 +16,18 @@ Explore YouTube trends in Germany, unraveling key aspects such as video populari
 
 - **Datasets:**
   - `Part_1/DE_category_id.json`: File containing category names.
-  - `Part_1/...` link in Notebook.
+  - `Part_1/link to dataset in Notebook.
 
 - **Presentation:**
   - `Part_1/presentation.pdf`: [Presentation Slides](https://drive.google.com/file/d/14jNNZ7eTEmn9--U0OHP6sQSgDGKrsXZX/view?usp=sharing) - Summarized insights and key findings.
 
-### FOLDER Part 2: [To Be Completed by end of December 18, 2023 - really sorry! ]
+### Part 2: 
 
-This section will include further analysis and additional files related to the second part of the project.
+Includes analysis of 20 biggest news publishers on Youtube - mainly in SQL.
 
-#### Additional Analysis and Visualizations [To Be Completed by end of December 18, 2023 - also sorry! ]
+#### Additional Analysis and Visualizations
 
-Explore interactive visualizations on Tableau for additional insights. [Link to Tableau Visualizations](link_to_tableau)
+Visualizations on Tableau for additional insights. [Link to Tableau Visualizations](https://public.tableau.com/app/profile/izabella.wojciechowska/viz/TopNewsPublishersonYT/publishersbysubscribernumbers?publish=yes)
 
 ### Why Analyze YouTube Trends?
 
